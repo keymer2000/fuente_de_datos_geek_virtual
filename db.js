@@ -195,8 +195,8 @@ module.exports = () => {
           "segundo_apellido": "Mesa",
           "tipo_usuario": "instructora",
           "descripcion": "Instructor Teorico Práctico",
-          "username": "",
-          "password": "",
+          "username": "oscarmesa",
+          "password": "12345",
           "foto": "https://www.asesoriagales.com/wp-content/uploads/2020/04/perfil-avatar-hombre-icono-redondo_24640-14046.jpg"
         },
         {
