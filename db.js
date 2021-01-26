@@ -159,8 +159,8 @@ module.exports = () => {
           "segundo_apellido": "",
           "tipo_usuario": "instructora",
           "descripcion": "Instructora Práctica",
-          "username": "",
-          "password": "",
+          "username": "derlyviviana",
+          "password": "54321",
           "foto": "https://image.freepik.com/vector-gratis/perfil-avatar-mujer-icono-redondo_24640-14047.jpg"
         },
         {
